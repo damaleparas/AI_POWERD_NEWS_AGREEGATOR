@@ -9,6 +9,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+<<<<<<< HEAD
+=======
+  "type": "commonjs",
+>>>>>>> bebd05870b54aa164d4c51ed13ef09f387b42892
   "dependencies": {
     "@google/genai": "^1.29.0",
     "axios": "^1.13.2",
